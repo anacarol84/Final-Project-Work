@@ -5,15 +5,13 @@
 A Machine Learning Project
 by Ana Carolina Connors
 
-Contents:
+- Contents:
 Project Overview
-Context and goals
 Project structure
 Built with
 Summary of all project stages
-How to open
 Dataset information
-License information
+
 
 ## 1. Project Overview
 
