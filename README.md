@@ -40,7 +40,7 @@ Plotly JS and Leaflet were used to render the data onto the page by querying the
 
 The project is divided into three stages:
 
-# Stage 1: Data cleaning and preparation using Jupyter Notebook
+!Stage 1: Data cleaning and preparation using Jupyter Notebook
 Stage 2: Data exploration and visualization (file 2_data_visualization)
 Stage 3: Predictive analysis with the Random Forest machine learning algorithm (file 3_predictive_analysis_rf)
 Each of the stages is described in a separate Jupyter Notebook(.ipynb file) and a derived pdf file.
