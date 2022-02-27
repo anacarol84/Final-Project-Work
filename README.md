@@ -9,7 +9,7 @@ Contents:
 
 - Project Overview
 - Project structure
-- Built with Summary of all project stages
+- Project stages
 - Dataset information
 
 
@@ -17,7 +17,7 @@ Contents:
 
 We have created a dashboard using Flask in order to analyze the Co2 emission and Global Temperature since XXXX per Country. It
 
-Predictive Machine Learning (ML) models ARIMA was used for this project for Time Series Forecasting in Python to analyze the development of climate change trends or relevant contributors. Theorically, the country emissions of greenhouse gases, such as CO2 over a year could depend on certain country-specific aspects. In this context, I have developed a ML project aiming to analyze and predict CO2 emissions from country and over the years.
+Predictive Machine Learning (ML) models ARIMA was used for this project for Time Series Forecasting in Python to analyze the development of climate change trends and Co2 emission. or relevant contributors. I have developed a ML using ARIMA model project aiming to analyze and predict Global Temperature and CO2 emissions from country and over the years.
 
 Questions we want to answer:
 
@@ -40,49 +40,40 @@ Plotly JS and Leaflet were used to render the data onto the page by querying the
 
 The project is divided into three stages:
 
-!Stage 1: Data cleaning and preparation using Jupyter Notebook
-Stage 2: Data exploration and visualization (file 2_data_visualization)
-Stage 3: Predictive analysis with the Random Forest machine learning algorithm (file 3_predictive_analysis_rf)
-Each of the stages is described in a separate Jupyter Notebook(.ipynb file) and a derived pdf file.
+- Stage 1: Data cleaning and preparation using Jupyter Notebook
+- Stage 2: Create a bucket in AWS and save the data
+- Stage 3: Data exploration and visualization 
+- Stage 4: Predictive analysis with ARIMA machine learning algorithm 
+- Stage 5: Develop a html page returning the prediction value.
 
 ## Dataset information
 
 1. Global Temperature: https://www.kaggle.com/berkeleyearth/climate-change-earth-surface-temperature-data/version/2?select=GlobalLandTemperaturesByCountry.csv
 2. Co2 Emission: https://data.worldbank.org/indicator/EN.ATM.CO2E.KT
 
-## Data exploration and visualization
-
-
 
 ## Data cleaning and preparation
 
-Step 1: Data cleaning,
-Step 2: Data transformation,
-transformation of the columns into a numerical data type
-renaming of features
-removing empty columns and rows
-Pivot Co2 Data
-Data frame transformation
-melting of the data for each variable
-integration of the data into a suitable data frame format
-Removal of missing values
-detection of missing values
-removal of missing values by filtering the columns and rows, so that minimal amount of features and rows are lost
-Export the clean data frame to a file
+- Step 1: Data cleaning,
+- Step 2: Data transformation, transformation dt into Year.
+- Step 3: Combininig Co2 data ena Global Temperature
+- Step 4: removing empty columns and rows
+- Step 5: Pivot Co2 Data.
+- Step 6: Data frame transformation
+- Step 7: Integration of the data into a suitable data frame format
+- Step 8: Export the clean data frame to a file
 
 ## Built with
-Programming language
-Python 3.7
-Libraries
-dataset handling: pandas, numpy
-data visualization: seaborn, matplotlib 
-machine learning: ARIMA
-Presentation:
-Jupyter Notebook
-derived identical HTML files
+- Programming language
+- Python 3.7
+- Libraries: dataset handling: pandas, numpy
+- Data visualization: matplotlib, Tableau 
+- Machine learning: ARIMA
+- Jupyter Notebook
+- HTML files
 
 
-## Running locally
+## Running from AWS
 
 1. Freeze pip / conda requirements
  ```
