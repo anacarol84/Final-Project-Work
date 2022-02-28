@@ -1,0 +1,122 @@
+.navbar{
+    height: 50px;
+    background: black;
+}
+
+.navbar img{
+    height: 40px;  
+    float:left 
+}
+.navbar .navbar-brand {
+    padding-left: 5px;
+    padding-right: 5px;
+    color:White;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: 0px;
+}
+ .navbar-brand2 {
+    padding-left: 5px;
+    padding-right: 5px;
+    color:White;
+    padding-top: 14px;
+    padding-bottom: 0px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+.nav-linkData {    color:white
+}
+.nav-linkDocumentation{    color:white
+}
+.nav-linkGithubRepo{    color:white
+}
+.nav-item4 .nav-link{    color:white
+}
+
+.navbar .container .navbar-nav .nav-itemData{
+    padding-left: 0px;
+    padding-right: 0px;
+    width:40px;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    text-align: center;
+    color:white
+}
+
+.navbar .container .navbar-nav .nav-itemDoc{
+    padding-left: 0px;
+    padding-right: 0px;
+    width:110px;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+.navbar .container .navbar-nav .nav-itemGithub{
+    padding-left: 0px;
+    padding-right: 0px;
+    width:100px;
+    padding-top: 14px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+.navbar .container .navbar-nav .nav-item4{
+    padding-left: 5px;
+    padding-right: 300px;
+    color:White;
+    padding-top: 5px;
+    padding-bottom: 10px;
+    text-align: center;
+    margin-right: 0px;
+}
+
+
+
+.navbar .nav-item2 {
+    width: 150px;
+    text-align: right;
+    padding-top: 10px;
+    
+  
+} 
+ .navbar .nav-item2 .nav-link {
+    
+    color:grey
+}
+
+
+
+.navbar .nav-item4 .nav-link {
+    padding-left: 0px;
+    padding-right: 200px;
+    width: 250px;
+    color:White;
+    text-align: left;
+  
+}
+
+.navbar .nav-item3 {
+    padding-top: 10px;
+    
+  
+} 
+#metricSelector {
+    width: 100px;
+    padding-right: 0px;
+   
+}
+
+#yearSelector {
+    width: 125px;
+    padding-right: 0px;
+} 
+
+#maptitle{
+    margin-top: 15px;
+    text-align:center;
+    font-weight:bold;
+    height: 500px;
+    font-size:18px;
+}

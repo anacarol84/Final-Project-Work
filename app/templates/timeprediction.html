@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block body %}
+<div class="container">
+    <div class="row" style="padding-top:20px">
+        <div class="col-md-3">
+            <h4>Country</h4>
+            <select id="countrySelector" class="form-select" aria-label="Default select example" onchange ="showInfo(this.value)">
+            </select>
+            <h2 id="curr_country"></h2>
+
+            <div id="temp_dump">
+            <h3>TEMP:</h3>
+            <span id="temp_here"></span>
+            </div>
+            
+            <div id="co2_dump">
+            <h3>CO2:</h3>
+            <span id="co_here"></span>
+            </div>
+        </div>
+    </div>
+
+<script src="../static/js/prediction.js"></script>
+
+{% endblock %}
+© 2022 GitHub, Inc.
+Terms
