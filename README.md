@@ -22,7 +22,7 @@ To predict future earth surface temperature can be a pure time series problem, b
 
 ## 1. Project Overview
 
-The main goal of this project is to analyze and make predictions of the Co2 emission and Global Temperature between 1960 and 2013 per Country.
+The main goal of this project is to analyze and make predictions of the Co2 emission and Global Temperature between 1960 and 2013 per Country: China, United States, Brazil, India, Canada and Australia.
 
 Predictive Machine Learning (ML) models ARIMA was used for this project for Time Series Forecasting in Python to analyze the development of climate change trends and Co2 emission. or relevant contributors. I have developed a ML using ARIMA model project aiming to analyze and predict Global Temperature and CO2 emissions from country and over the years.
 
@@ -69,9 +69,7 @@ The project is divided into three stages:
 
 ## Data Visualzation
 
-[alt text]("C:\Users\ana_c\OneDrive\Desktop\Climage Change Dashboard.pdf)
-
-[embed](file:///C:/Users/ana_c/OneDrive/Desktop/Climage%20Change%20Dashboard.pdf)
+[Climage Change Dashboard.pdf](https://github.com/anacarol84/Final-Project-Work/files/8154109/Climage.Change.Dashboard.pdf)
 
 ## Built with
 
