@@ -34,7 +34,6 @@ Plotly JS and Leaflet were used to render the data onto the page by querying the
 
 ### Solution Architecture
 ![image (2)](![solution_architecture drawio (1)](https://user-images.githubusercontent.com/90126613/155986743-3e5e3d20-564a-4499-8cab-a57c7e06b718.png)
-)
 
 
 ## Project structure
