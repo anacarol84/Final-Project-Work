@@ -71,7 +71,9 @@ The project is divided into three stages:
 
 ## Data Visualzation
 
-![alt text](http://url/to/img.png)("C:\Users\ana_c\OneDrive\Desktop\Climage Change Dashboard.pdf")
+![alt text]("C:\Users\ana_c\OneDrive\Desktop\Climage Change Dashboard.pdf)
+
+[embed]file:///C:/Users/ana_c/OneDrive/Desktop/Climage%20Change%20Dashboard.pdf
 
 ## Built with
 
