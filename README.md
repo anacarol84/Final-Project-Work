@@ -12,18 +12,28 @@ Contents:
 - Project stages
 - Dataset information
 
+## 1. Introduction
+
+Global warming has become a very important subject recently and it is a global concern. It is important to understand the Global Temperature and Co2 emission trend and prediction, and how it is changing.
+
+Carbon dioxide causes 80% of global warming. Co2 emission is one of the main causes of the total energy imbalance that is causing Earth's temperature to rise. The concentration of these gases has risen dramatically by human impact since the mid of the 20th century, with the burning of fossil fuels (oil and gas) and deforestation being main causes of this rise. 
+ 
+To predict future earth surface temperature can be a pure time series problem, but global warming is also related to other factors as mentioned previously.
 
 ## 1. Project Overview
 
-We have created a dashboard using PowerBI in order to analyze the Co2 emission and Global Temperature since XXXX per Country. It
+The main goal of this project is to analyze and make predictions of the Co2 emission and Global Temperature between 1960 and 2013 per Country.
 
 Predictive Machine Learning (ML) models ARIMA was used for this project for Time Series Forecasting in Python to analyze the development of climate change trends and Co2 emission. or relevant contributors. I have developed a ML using ARIMA model project aiming to analyze and predict Global Temperature and CO2 emissions from country and over the years.
 
 Questions we want to answer:
 
 1.  Has the Global Temperature increased?
+``
 2.  Which country is responsible for the most CO2 emissions?
+``
 3.  How much has been the CO2 emission and Global temperature average  the years?
+
 
 The flask application runs on: [Heroku](https://final-project-2022.herokuapp.com/prediction)
 
@@ -59,9 +69,9 @@ The project is divided into three stages:
 - Step 7: Integration of the data into a suitable data frame format,
 - Step 8: Export the clean data frame to a file.
 
-## Visualization
+## Data Visualzation
 
-![Image (3)](file:///C:/Users/ana_c/OneDrive/Desktop/Climage%20Change%20Dashboard.pdf)
+![image (3)]("C:\Users\ana_c\OneDrive\Desktop\Climage Change Dashboard.pdf")
 
 ## Built with
 
