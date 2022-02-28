@@ -21,14 +21,16 @@ Predictive Machine Learning (ML) models ARIMA was used for this project for Time
 
 Questions we want to answer:
 
-1.  
+1.  Has the Global Temperature increased?
+2.  Which country is responsible for the most CO2 emissions?
+3.  How much has been the CO2 emission and Global temperature average  the years?
 
 The flask application runs on: [Heroku](https://final-project-2022.herokuapp.com/prediction)
 
 Below are screenshots of what the app looks like when running:
 
 ### Index Page
-![image (1)]()
+![image (1)](https://final-project-2022.herokuapp.com/prediction)
 
 Plotly JS and Leaflet were used to render the data onto the page by querying the API endpoints created.
 
