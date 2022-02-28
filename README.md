@@ -16,7 +16,7 @@ Contents:
 
 Global warming has become a very important subject recently and it is a global concern. It is important to understand the Global Temperature and Co2 emission trend and prediction, and how it is changing.
 
-Carbon dioxide causes 80% of global warming. Co2 emission is one of the main causes of the total energy imbalance that is causing Earth's temperature to rise. The concentration of these gases has risen dramatically by human impact since the mid of the 20th century, with the burning of fossil fuels (oil and gas) and deforestation being main causes of this rise. 
+Carbon dioxide causes 80% of global warming. Co2 emission is one of the main causes of the total energy imbalance that is causing Earth's temperature to rise. The concentration of these gases has risen dramatically by human impact since the mid of the 20th century, with the burning of fossil fuels (oil and gas) and deforestation being the main causes of this rise. 
  
 To predict future earth surface temperature can be a pure time series problem, but global warming is also related to other factors as mentioned previously.
 
