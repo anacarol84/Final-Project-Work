@@ -1,6 +1,6 @@
 # Final-Project-Work
 
-# Prediction of yearly CO2 emissions and Global Temperature from country data
+# Yearly CO2 emissions and Global Temperature prediction from country between 1060 - 2013 per country
 
 A Machine Learning Project
 by Ana Carolina Connors
