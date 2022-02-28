@@ -15,7 +15,7 @@ Contents:
 
 ## 1. Project Overview
 
-We have created a dashboard using Flask in order to analyze the Co2 emission and Global Temperature since XXXX per Country. It
+We have created a dashboard using PowerBI in order to analyze the Co2 emission and Global Temperature since XXXX per Country. It
 
 Predictive Machine Learning (ML) models ARIMA was used for this project for Time Series Forecasting in Python to analyze the development of climate change trends and Co2 emission. or relevant contributors. I have developed a ML using ARIMA model project aiming to analyze and predict Global Temperature and CO2 emissions from country and over the years.
 
@@ -58,6 +58,10 @@ The project is divided into three stages:
 - Step 6: Data frame transformation,
 - Step 7: Integration of the data into a suitable data frame format,
 - Step 8: Export the clean data frame to a file.
+
+## Visualization
+
+![Image (3)](file:///C:/Users/ana_c/OneDrive/Desktop/Climage%20Change%20Dashboard.pdf)
 
 ## Built with
 
