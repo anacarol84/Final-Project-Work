@@ -21,9 +21,9 @@ Predictive Machine Learning (ML) models ARIMA was used for this project for Time
 
 Questions we want to answer:
 
-- 1.  Has the Global Temperature increased?
-- 2.  Which country is responsible for the most CO2 emissions?
-- 3.  How much has been the CO2 emission and Global temperature average  the years?
+1.  Has the Global Temperature increased?
+2.  Which country is responsible for the most CO2 emissions?
+3.  How much has been the CO2 emission and Global temperature average  the years?
 
 The flask application runs on: [Heroku](https://final-project-2022.herokuapp.com/prediction)
 
@@ -72,7 +72,7 @@ The project is divided into three stages:
 
 ## Running from AWS
 
-1. Freeze pip / conda requirements
+1. Serving Flask app 'app' (lazy loading)
  ```
   python -m pip list --format=freeze > requirements.txt
  ```
@@ -89,6 +89,15 @@ OR
  ```
   flask run
  ```  
+  * Serving Flask app 'app' (lazy loading)
+* Environment: production
+WARNING: This is a development server. Do not use it in a production deployment.
+Use a production WSGI server instead.
+* Debug mode: on
+* Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+* Restarting with stat
+* Debugger is active!
+
   
 ## Deploying to Heroku
 1. Freeze pip / conda requirements
