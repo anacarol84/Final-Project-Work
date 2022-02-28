@@ -33,7 +33,8 @@ Below are screenshots of what the app looks like when running:
 Plotly JS and Leaflet were used to render the data onto the page by querying the API endpoints created.
 
 ### Solution Architecture
-![image (2)](https://waustralia.bootcampcontent.com/the-university-of-western-australia/waus-perth-data-pt-09-2021-u-c/-/raw/master/01-Lesson-Plans/22-Cloud/1/Activities/07-Ins_ML_Web_AWS/Solved/images/solution_architecture.drawio.png)
+![image (2)](![solution_architecture drawio (1)](https://user-images.githubusercontent.com/90126613/155986743-3e5e3d20-564a-4499-8cab-a57c7e06b718.png)
+)
 
 
 ## Project structure
