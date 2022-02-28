@@ -23,7 +23,7 @@ Questions we want to answer:
 
 1.  
 
-The flask application runs on: [Heroku]()
+The flask application runs on: [Heroku](https://final-project-2022.herokuapp.com/prediction)
 
 Below are screenshots of what the app looks like when running:
 
