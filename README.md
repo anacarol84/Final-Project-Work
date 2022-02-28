@@ -69,7 +69,7 @@ The project is divided into three stages:
 
 ## Data Visualzation
 
-[Climage Change Dashboard.pdf](https://github.com/anacarol84/Final-Project-Work/files/8154109/Climage.Change.Dashboard.pdf)
+![image (2)][Climage Change Dashboard.pdf](https://github.com/anacarol84/Final-Project-Work/files/8154109/Climage.Change.Dashboard.pdf)
 
 ## Built with
 
