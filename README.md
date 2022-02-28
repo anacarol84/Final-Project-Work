@@ -51,15 +51,16 @@ The project is divided into three stages:
 ## Data cleaning and preparation
 
 - Step 1: Data cleaning,
-- Step 2: Data transformation, transformation dt into Year.
-- Step 3: Combininig Co2 data ena Global Temperature
-- Step 4: removing empty columns and rows
-- Step 5: Pivot Co2 Data.
-- Step 6: Data frame transformation
-- Step 7: Integration of the data into a suitable data frame format
-- Step 8: Export the clean data frame to a file
+- Step 2: Data transformation, transformation dt into Year,
+- Step 3: Combininig Co2 data ena Global Temperature,
+- Step 4: removing empty columns and rows,
+- Step 5: Pivot Co2 Data,
+- Step 6: Data frame transformation,
+- Step 7: Integration of the data into a suitable data frame format,
+- Step 8: Export the clean data frame to a file.
 
 ## Built with
+
 - Programming language
 - Python 3.7
 - Libraries: dataset handling: pandas, numpy
