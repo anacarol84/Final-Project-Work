@@ -1,14 +1,8 @@
-from distutils.log import debug
 import pandas as pd
 from flask import Flask, session, request, redirect, render_template, Blueprint, jsonify
 # from flask_restx import Api, Resource, fields
 # from flask_restful import Api, Resource, fields
-import numpy as np
-import os
-from os import listdir
-from os.path import isfile, join
 import joblib
-
 
 
 # import json
@@ -61,6 +55,7 @@ def predictTemperature(Country):
     model = joblib.load(f"{Country}.sav")
     forecast = model.forecast(steps=20).tolist()
     return {"prediction": forecast}
+
 # @app.route("/api/data")
 # def getData(data):
 #     # df = pd.read_csv("Climate_change_analysis.csv")
