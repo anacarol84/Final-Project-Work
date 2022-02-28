@@ -28,7 +28,7 @@ The flask application runs on: [Heroku](https://final-project-2022.herokuapp.com
 Below are screenshots of what the app looks like when running:
 
 ### Index Page
-![image (1)]()
+![image (1)](https://waustralia.bootcampcontent.com/the-university-of-western-australia/waus-perth-data-pt-09-2021-u-c/-/raw/master/01-Lesson-Plans/22-Cloud/1/Activities/07-Ins_ML_Web_AWS/Solved/images/solution_architecture.drawio.png)
 
 Plotly JS and Leaflet were used to render the data onto the page by querying the API endpoints created.
 
