@@ -70,9 +70,9 @@ The project is divided into three stages:
 - HTML files
 
 
-## Running from AWS
+## Running from locally
 
-1. Serving Flask app 'app' (lazy loading)
+1. Freeze pip / conda requirements
  ```
   python -m pip list --format=freeze > requirements.txt
  ```
@@ -80,7 +80,7 @@ The project is divided into three stages:
  ```
  conda create -n <env> --file requirements.txt
  ```
-3.Run the app using:
+3. Run the app using:
  ```
   python app.py
  ```
